@@ -11,4 +11,4 @@ This mini project is made to learn and implement CSS Grid and Flexbox to create 
 - [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout) This makes it easier to create layout with grid
 
 # Preview
-[preview section gallery](/posts/path/to/img.jpg "Optional title")
+![preview section gallery](https://github.com/fauzanhaki/responsive-web-grid/assets/103600571/d3e55a60-d7b3-480e-96b2-a97031604c1a)
